@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hola, soy Esteban Cobo 👋
-### Data Engineer & AI Student · Cali, Colombia 🇨🇴
+# Hola, soy Esteban Cobo 
+### Data Engineer & AI Student · Cali, Colombia 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-cobo-g%C3%B3mez-0783a2244/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanC111s)
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante del **último semestre de Ingeniería de Datos e Inteligencia Artificial** en la UAO, con experiencia real en ETL, modelado de datos, machine learning y desarrollo backend orientado a datos. Actualmente hago parte de un **grupo de investigación universitario** enfocado en redes neuronales aplicadas a salud y eficiencia de procesos.
 
-- 🎓 Penúltimo semestre — Data Engineering & AI @ UAO, Cali
-- 🔬 Investigador en grupo universitario de ML & Redes Neuronales
-- 💼 Experiencia profesional en Data Engineering (Nov 2023–Ene 2024 · Nov 2024–Feb 2025)
-- 🌍 Inglés C1 · Español nativo · Alemán A1
-- 🔭 Explorando: **Data Lakehouse**, **MLOps** y **ClickHouse**
-- 📧 coboesteban030@gmail.com
+- Último semestre — Data Engineering & AI @ UAO, Cali
+- Investigador en grupo universitario de ML & Redes Neuronales
+- Experiencia profesional en Data Engineering (Nov 2023–Ene 2024 · Nov 2024–Feb 2025)
+- Inglés C1 · Español nativo · Alemán A1
+- Explorando: **Data Lakehouse**, **MLOps** y **ClickHouse**
+- coboesteban030@gmail.com
 
 ---
 
@@ -51,7 +51,7 @@ Soy estudiante del **último semestre de Ingeniería de Datos e Inteligencia Art
 
 ---
 
-## 📌 Áreas de Expertise
+## Áreas de Expertise
 
 ```text
 🔁 ETL/ELT Pipeline Design        ████████████████░░  90%
@@ -77,7 +77,7 @@ Soy estudiante del **último semestre de Ingeniería de Datos e Inteligencia Art
 
 ---
 
-## 🏗️ Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -85,10 +85,10 @@ Soy estudiante del **último semestre de Ingeniería de Datos e Inteligencia Art
 | 🔧 **[ETL Servicios Públicos Colombia](https://github.com/EstebanC111s/ETLProject_FinalDelivery)** | Pipeline ETL para analizar cobertura de acueducto, alcantarillado y aseo en Colombia, vinculado al ODS 6 | Python · SQL · ETL |
 | 🧬 **Radiomix — Detección Cáncer de Mama** | Análisis con radiografías reales, aplicando IA y análisis de datos para apoyar la detección temprana | Python · ML · scikit-learn |
 | 🔬 **Grupo Investigación ML & Redes Neuronales** | Investigación aplicada en salud y eficiencia de procesos usando deep learning | Python · Neural Networks · R |
-| 🏗️ **ETL Pipeline** | Pipeline de ingesta y transformación sobre data lake | Spark · Airflow · MinIO |
-| 📊 **Dimensional Model** | Diseño estrella/copo de nieve para analytics | SQL · dbt · ClickHouse |
-| 🔐 **Net Scanner** | Herramienta de análisis de red y pentesting | Python · Bash · Nmap |
-| 🚀 **FastAPI Service** | Microservicio REST para serving de modelos ML | FastAPI · Docker · Python |
+|  **ETL Pipeline** | Pipeline de ingesta y transformación sobre data lake | Spark · Airflow · MinIO |
+|  **Dimensional Model** | Diseño estrella/copo de nieve para analytics | SQL · dbt · ClickHouse |
+|  **Net Scanner** | Herramienta de análisis de red y pentesting | Python · Bash · Nmap |
+|  **FastAPI Service** | Microservicio REST para serving de modelos ML | FastAPI · Docker · Python |
 
 ---
 

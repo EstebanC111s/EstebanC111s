@@ -66,17 +66,6 @@ Soy estudiante del **último semestre de Ingeniería de Datos e Inteligencia Art
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanC111s&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanC111s&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |

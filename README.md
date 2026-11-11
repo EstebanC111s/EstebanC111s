@@ -29,7 +29,8 @@ Estudiante de último semestre de **Ingeniería de Datos e Inteligencia Artifici
 - **Modelado de datos** relacional y dimensional (estrella / copo de nieve) con dbt
 - **Dashboards**: tableros en Power BI y aplicaciones interactivas con Streamlit y Plotly
 - **ML aplicado**: regresión, clasificación y deep learning sobre imágenes médicas
-- **IA generativa**: RAG y agentes con LangChain / LangGraph, servidos con FastAPI
+- **IA generativa**: RAG y agentes con LangChain / LangGraph
+- **Backend y frontend**: APIs REST con FastAPI e interfaces con React y TypeScript
 
 ---
 
@@ -53,7 +54,6 @@ Estudiante de último semestre de **Ingeniería de Datos e Inteligencia Artifici
 ### Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### ML & IA
@@ -69,7 +69,13 @@ Estudiante de último semestre de **Ingeniería de Datos e Inteligencia Artifici
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-También: Java · C++ · JavaScript
+### Desarrollo
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 

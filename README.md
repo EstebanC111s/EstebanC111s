@@ -4,7 +4,7 @@
 ### Data Engineer · Ingeniería de Datos e IA · Cali, Colombia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-cobo-g%C3%B3mez-0783a2244/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coboesteban030@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=coboesteban030@gmail.com)
 
 </div>
 
